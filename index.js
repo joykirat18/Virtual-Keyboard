@@ -15,6 +15,10 @@ const Keyboard = {
         capsLock: false
     },
 
+
+
+    
+
     init() {
         // create main elemnt
         this.elements.main = document.createElement("div");
